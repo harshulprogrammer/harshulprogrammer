@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World, Presenting you the most passionate Developer to build powerful things.
 
-<!--
-**harshulprogrammer/harshulprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>NOW! Let's Begin,
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-> I am currently working as a frontend developer.<br>
+-> I am currently learning different ways to build outstanding Web Apps.<br>
+-> I am looking for frontend development job.<br>
+-> If you want to reach me : Linkedin is the Key.<br>
+-> I done Internship from IIT Kanpur as a full stack developer.<br>
+<hr>
+-> My key skills are:
+<ol>
+  <li>React JS</li>
+  <li>Java</li>
+  <li>JavaScript</li>
+</ol>
+<hr>
+-> Some things about my PERSONALITY are:
+<ol>
+  <li>Active Listner</li>
+  <li>Leadership Skills</li>
+  <li>Excellent Communication Skills</li>
+</ol>
