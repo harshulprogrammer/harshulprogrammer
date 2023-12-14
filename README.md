@@ -17,7 +17,7 @@
 <hr>
 -> Some things about my PERSONALITY are:
 <ol>
-  <li>Active Listner</li>
+  <li>Active Listener</li>
   <li>Leadership Skills</li>
   <li>Excellent Communication Skills</li>
 </ol>
