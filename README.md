@@ -2,7 +2,7 @@
 
 <br>NOW! Let's Begin,
 
--> I am currently working as a frontend developer.<br>
+-> I am Passionate about frontend development.<br>
 -> I am currently learning different ways to build outstanding Web Apps.<br>
 -> I am looking for frontend development job.<br>
 -> If you want to reach me : Linkedin is the Key.<br>
